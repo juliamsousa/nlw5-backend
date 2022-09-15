@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/juliamsousa/nlw5-backend#readme",
   "dependencies": {
+    "@types/socket.io": "^2.1.13",
     "express": "^4.17.1",
     "reflect-metadata": "^0.1.13",
+    "socket.io": "^4.1.1",
     "sqlite3": "^5.0.2",
     "typeorm": "^0.2.32",
     "uuid": "^3.4.0"
